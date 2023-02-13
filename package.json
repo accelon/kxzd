@@ -1,0 +1,21 @@
+{
+  "name": "kxzd",
+  "version": "1.0.0",
+  "description": "kangxizidian in off format",
+  "main": "gen.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accelon/kxzd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/accelon/kxzd/issues"
+  },
+  "homepage": "https://github.com/accelon/kxzd#readme"
+}
